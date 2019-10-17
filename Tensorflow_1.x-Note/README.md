@@ -1,4 +1,4 @@
-# Tensorflow学习笔记
-学习Tensorflow官方教程  
-每天记一些笔记  
-熟练Markdown文本编辑
+# Tensorflow-GPU
+记录安装tensorflow-gpu的过程  
+同时学习Markdown这个标记语言
+
