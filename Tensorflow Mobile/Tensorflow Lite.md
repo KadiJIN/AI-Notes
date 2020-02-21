@@ -10,4 +10,6 @@ Command line
 
 ## Reference
 官网 https://www.tensorflow.org/lite  
-https://www.ctolib.com/topics-139108.html
+对lite的中文介绍 https://www.ctolib.com/topics-139108.html  
+How to convert .pb to TFLite format https://kharbari.com/how-to-convert-pb-to-tflite-format/  https://kharbari.com/how-to-convert-pb-to-tflite-format-object-detection/  
+
