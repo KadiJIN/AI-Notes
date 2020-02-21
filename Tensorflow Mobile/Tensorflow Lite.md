@@ -5,7 +5,7 @@ It enables on-device machine learning inference with low latency and a small bin
 ## TensorFlow Lite converter
 ![deployment](https://www.tensorflow.org/lite/images/convert/workflow.svg)
 ### Converting models
-Python API(recommended)
+Python API(recommended)  
 Command line
 
 ## Reference
